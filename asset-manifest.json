@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/RavshanJumaqulov/Pricing.git%20/static/css/main.e8fa42ec.css",
+    "main.js": "/RavshanJumaqulov/Pricing.git%20/static/js/main.675c5649.js",
+    "static/js/787.29573660.chunk.js": "/RavshanJumaqulov/Pricing.git%20/static/js/787.29573660.chunk.js",
+    "static/media/bootstrap.min.css.map": "/RavshanJumaqulov/Pricing.git%20/static/media/bootstrap.min.css.5631c8e5808773313fed.map",
+    "static/media/bootstrap-icons.woff?": "/RavshanJumaqulov/Pricing.git%20/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/RavshanJumaqulov/Pricing.git%20/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/RavshanJumaqulov/Pricing.git%20/index.html",
+    "main.e8fa42ec.css.map": "/RavshanJumaqulov/Pricing.git%20/static/css/main.e8fa42ec.css.map",
+    "main.675c5649.js.map": "/RavshanJumaqulov/Pricing.git%20/static/js/main.675c5649.js.map",
+    "787.29573660.chunk.js.map": "/RavshanJumaqulov/Pricing.git%20/static/js/787.29573660.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8fa42ec.css",
+    "static/js/main.675c5649.js"
+  ]
+}
